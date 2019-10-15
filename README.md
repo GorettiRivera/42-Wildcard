@@ -25,9 +25,9 @@ The alert will run every day.
 
 1. Install the latest version of Python 3:  https://www.python.org/downloads/
 2. Install the following packages using pip:
-   pip3 install --user requests
-   pip3 install --user bs4 
-   pip3 install --user PyQt5
+   2.1 pip3 install --user requests
+   2.2 pip3 install --user bs4 
+   2.3 pip3 install --user PyQt5
 3. Run python on amazonApp.py and enjoy :)
 
 ## Sources:

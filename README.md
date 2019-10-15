@@ -16,7 +16,7 @@ This is an application to track Amazon Prices, it will send you an email alert w
 | Price: | Enter the desired price.                                                                                                                       |
 | Email: | Enter your email.                                                                                                                              |
 
-Once the parameters are filled, click on "Setup Alert". The alert will be executed and if the price fell down you will receive an email.
+Once the parameters are filled, click on "Setup Alert". The alert will be setup and you will receive an email when the price fell below the price setup by the user.
 The alert will run every day.
 
 <img src="Item.png" width="400" height="350"> <img src="PriceTracker2.png" width="400">

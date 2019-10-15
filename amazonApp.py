@@ -182,7 +182,7 @@ class Ui_MainWindow(object):
             self.textBrowser.append(str(word2) + str(converted_price))
             convertedExpectedprice = float(listPrice)
             text = str(self.comboBox.currentText())
-            word3 = '<span style=\" color: #1D12A6; font-weight: bold; \"><br />Alert executed!. It will run again in 24 hours.</span>'
+            word3 = '<span style=\" color: #1D12A6; font-weight: bold; \"><br />Alert executed!. It will run again in 24 hours. </span>'
             self.textBrowser.append(str(word3))
             # if text == '>=':
             #     if(converted_price >= convertedlistprice):

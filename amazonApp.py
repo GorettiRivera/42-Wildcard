@@ -189,7 +189,7 @@ class Ui_MainWindow(object):
             #         self.send_mail(lineedit, Email, regex)
             if text == '<=':
                 if(converted_price <= convertedExpectedprice):
-                    # self.send_mail(lineedit, Email, regex)
+                    self.send_mail(lineedit, Email, regex)
                     print("Email sent")
         
         self.timer = QtCore.QTimer()

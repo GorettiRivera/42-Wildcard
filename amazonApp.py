@@ -3,20 +3,13 @@
 #                                                         :::      ::::::::    #
 #    amazonApp.py                                       :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: gorettirivera <gorettirivera@student.42    +#+  +:+       +#+         #
+#    By: mrivera- <mrivera-@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/10/14 22:16:08 by mrivera-          #+#    #+#              #
-#    Updated: 2019/10/14 22:17:15 by gorettirive      ###   ########.fr        #
+#    Created: 2019/10/01 09:21:48 by mrivera-          #+#    #+#              #
+#    Updated: 2019/10/15 11:21:48 by mrivera-         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'tracker.ui'
-#
-# Created by: PyQt5 UI code generator 5.13.0
-#
-# WARNING! All changes made in this file will be lost!
 # Build a Python App that tracks Amazon Prices! We are using python to make requests and do web scraping on amazon website.
 
 from PyQt5 import QtCore, QtGui, QtWidgets

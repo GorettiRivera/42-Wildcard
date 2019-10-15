@@ -21,7 +21,6 @@ The alert will run every day.
 
 <img src="Item.png" width="400" height="350"> <img src="PriceTracker2.png" width="400">
 <img src="Email.png" width="800">
-
 ## Installation:
 
 1. Install the latest version of Python 3:  https://www.python.org/downloads/
@@ -30,6 +29,6 @@ The alert will run every day.
 3. Run python on amazonApp.py and enjoy :)
 
 ## Sources:
-* [Python Tutorial for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=9090s)
+* [Python Tutorial for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=)
 * [Intro to Web Scraping with Python and Beautiful Soup](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=2s)
 * [PyQt5 Tutorial - Setup and a Basic GUI Application](https://www.youtube.com/watch?v=Vde5SH8e1OQ&list=PLzMcBGfZo4-lB8MZfHPLTEHO9zJDDLpYj)

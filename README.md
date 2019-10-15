@@ -14,7 +14,7 @@ This is an application to track Amazon Prices, it will send you an email alert w
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | URL:   | This has to be an amazon URL, go to amazon.com, select any item from which you would like to track the price, copy/paste URL in this field.    |
 | Price: | Enter the desired price.                                                                                                                       |
-| Email: | Enter your email.                                                                                                                              |
+| Email: | Enter a valid email.                                                                                                                              |
 
 Once the parameters are filled, click on "Setup Alert". The alert will be setup and you will receive an email when the price fell below the price setup by the user.
 The alert will run every day.

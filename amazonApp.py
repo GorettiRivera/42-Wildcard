@@ -209,7 +209,7 @@ class Ui_MainWindow(object):
         server.starttls()
         server.ehlo()
 
-        server.login('amazontrackerprice@gmail.com', 'qanfcpmvgnexaibd')
+        server.login('amazontrackerprice@gmail.com', '****')
 
         subject = 'Price fell down!!'
         body = f"Check the amazon link: ' {URL}"
